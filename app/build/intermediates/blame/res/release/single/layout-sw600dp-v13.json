@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Projects\\GymRat\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_main.xml",
+        "source": "D:\\Projects\\GymRat\\app\\src\\main\\res\\layout-sw600dp\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\GymRat\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "D:\\Projects\\GymRat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    }
+]

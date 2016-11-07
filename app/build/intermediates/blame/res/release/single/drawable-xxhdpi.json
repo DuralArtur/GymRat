@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Projects\\GymRat\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_add_white_48dp.png",
+        "source": "D:\\Projects\\GymRat\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_white_48dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\GymRat\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_stat_name.png",
+        "source": "D:\\Projects\\GymRat\\app\\src\\main\\res\\drawable-xxhdpi\\ic_stat_name.png"
+    },
+    {
+        "merged": "D:\\Projects\\GymRat\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_play_arrow_black_48dp.png",
+        "source": "D:\\Projects\\GymRat\\app\\src\\main\\res\\drawable-xxhdpi\\ic_play_arrow_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\GymRat\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_send_white_48dp.png",
+        "source": "D:\\Projects\\GymRat\\app\\src\\main\\res\\drawable-xxhdpi\\ic_send_white_48dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\GymRat\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_save_white_48dp.png",
+        "source": "D:\\Projects\\GymRat\\app\\src\\main\\res\\drawable-xxhdpi\\ic_save_white_48dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\GymRat\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_send_black_48dp.png",
+        "source": "D:\\Projects\\GymRat\\app\\src\\main\\res\\drawable-xxhdpi\\ic_send_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\GymRat\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_add_black_48dp.png",
+        "source": "D:\\Projects\\GymRat\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_black_48dp.png"
+    }
+]

@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">GymRat</string>
+
+    //Menu items
+    <string-array name="menu_items">
+        <item>@string/workouts</item>
+        <item>@string/gyms</item>
+        <item>@string/myGyms</item>
+        <item>@string/invite</item>
+    </string-array>
+    <string name="workouts">My Workouts</string>
+    <string name="gyms">My Gyms</string>
+    <string name="myGyms">Personal Records</string>
+    <string name="invite">Invite a friend</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="send_invite">Send workout invite!</string>
+    <string name="time_invite">Set time</string>
+    <string name="date_invite">Set date</string>
+
+    <string name="content_authority">com.example.android.gymrat.app</string>
+    <string name="already_exist">This exercise is already in this workout!</string>
+    <string name="exc_added">Exercise successfully added to workout!</string>
+    <string name="gym_added">Gym successfully added!</string>
+    <string name="pr_added">PR successfully added!</string>
+    <string name="add_workouts_first">Add workout first to have access to exercises!</string>
+    <string name="pr_not_added">PR not added, perhaps there\'s already PR for this exercise?</string>
+    <string name="gym_not_added">Gym not added!</string>
+    <string name="gym_name">Type in your gym name!</string>
+    <string name="empty_workouts">No workouts here, press + to add some!</string>
+    <string name="empty_gyms">No gyms here, allow localization and press + to add some!</string>
+    <string name="empty_prs">No PRs here, press + to add some!</string>
+    <string name="empty_fields">Please fill all fields</string>
+    <string name="workout_already_exists">This workout name already exists!</string>
+    <string name="geofence_transition_entered">Entered</string>
+    <string name="geofence_transition_exited">Exited</string>
+    <string name="unknown_geofence_transition">Unknown Transition</string>
+    <string name="workout_name">Type in your workout name!</string>
+    <!-- Error strings -->
+    <string name="geofence_transition_invalid_type">
+        Geofence transition error: invalid transition type %1$d
+    </string>
+    <string name="allow_loc">Allow location permission to this app to have this filled automatically!</string>
+    <string name="ioexception">IOException</string>
+    <string name="conn_fail">Connection failed</string>
+    <string name="conn_susp">Connection suspended</string>
+    <string name="geofence_transition_notification_text">Click notification to return to app</string>
+    <string name="exc">Exercise name here!</string>
+    <string name="reps">Put reps here!</string>
+    <string name="sets">Put sets here!</string>
+    <string name="weight">Put weight here!</string>
+    <string name="link">Put YouTube link here!</string>
+    <string name="address">Put address here!</string>
+    <string name="lat">Put latitude here!</string>
+    <string name="long_h">Put longitude here!</string>
+    <string name="no_vid">No video for this exercise, but I believe you!</string>
+    <string name="vid_err">Can\'t start a video, did you copy the link?</string>
+    <string name="x">x</string>
+    <string name="setsreps"
+        formatted="false">%.0f sets * %.0f reps</string>
+    <string name="invite_p1" formatted="false">Let\'s workout! When? </string>
+    <string name="invite_p2">What? </string>
+    <string name="invite_p3"> let me know if you\'re up for it!</string>
+</resources>
